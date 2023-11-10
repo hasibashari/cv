@@ -1,0 +1,40 @@
+body {
+   background-color: #f5f5f5;
+   font-family: Arial, sans-serif;
+}
+
+.navbar {
+   margin-bottom: 20px;
+}
+
+.container {
+   background-color: #fff;
+   padding: 20px;
+   border-radius: 5px;
+   box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+   color: #333;
+   margin-bottom: 20px;
+}
+
+table {
+   width: 100%;
+}
+
+td {
+   padding: 10px;
+}
+
+img {
+   border-radius: 5%;
+   width: 100%;
+   height: auto;
+}
+
+footer {
+   text-align: center;
+   padding: 20px;
+   background-color: #f2f2f2;
+}
